@@ -1,1 +1,63 @@
-# -
+# 前端须知
+## 产品端
+- WEB PC【基础】
+- H5
+- 微信公众号
+  - 分享
+  - 支付
+- 小程序
+  - 微信小程序【基础】
+  - 支付宝小程序【了解】
+  - 百度小程序【知道】
+  - 头条小程序【知道】
+- 手机端APP
+  - Android 原生【基于java，Kotlin】
+  - IOS 原生 【基于object-c，swift】
+  - react native 【基于react语法】
+  - flutter 【基于dart语法】
+  - Hbuilder 【H+C+J 编译】
+  - APIcloud【H+C+J 编译】
+- PC端APP
+  - QT
+  - electron【基于H+C+J 编译】
+  - 其他
+- 插件
+  - chrome浏览器
+  - Firefox浏览器
+  - 360浏览器
+## 技术端
+- vuejs生态
+  - vuejs
+  - vue-router
+  - vuex
+  - nuxtjs
+- nodejs
+  - koa
+- react
+  - 待整理
+- angular
+  - 待整理
+- typescript
+  - 待整理
+- jQuery【已过期】
+## 资源站
+- 前端
+  - w3school
+  - 菜鸟教程
+  - npmjs.org
+  - github.com
+  - awesomes.cn
+  - codepen.io 【前端WEB编辑预览】
+- js
+  - developer.mozilla.org
+- vuejs
+  - cn.vuejs.org
+  - router.vuejs.org
+  - vuex.vuejs.org
+  - ssr.vuejs.org
+  - nuxtjs.org
+  - vuejsexamples.com
+  - https://github.com/vuejs/awesome-vue
+- 插件
+- chrome
+  - https://developer.chrome.com/extensions
